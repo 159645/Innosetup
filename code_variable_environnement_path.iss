@@ -38,7 +38,7 @@ Name: "french"; MessagesFile: "compiler:Languages\French.isl"
 
 ; On ajoute une section [Registry]
 ; On peut lire et ecrire directement la valeur d'une clef a ce niveau
-; On verifie si le path contint deja la valeur a ajouter
+; On verifie si le path contient deja la valeur a ajouter
 [Registry]
 Root: HKLM; \
 SubKey: "SYSTEM\CurrentControlSet\Control\Session Manager\Environment\"; \
