@@ -1,8 +1,7 @@
 #define MyAppName "PROII_retrofit_W7_V100_x86"
 #define MyAppVersion "1.0"
-#define MyAppPublisher "IFPen"
+#define MyAppPublisher "jet"
 #define MyAppURL "http://www.example.com/"
-#define MyAppExeName "MyProg.exe"
                                                  
 ; Paramétrage du chemin du dossier d'installation
 #define IFP_CHEM_DESINSTALL    "C:\system\Desinstall"
@@ -136,7 +135,7 @@ end;
 
 //////////////////////////////////////////////////////////////////////////////////////////
 ///
-///   DESINSTALLATION DU PACKAGE
+///   INSTALLATION DU PACKAGE
 ///
 //////////////////////////////////////////////////////////////////////////////////////////
              
